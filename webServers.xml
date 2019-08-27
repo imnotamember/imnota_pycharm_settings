@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ab1ae03-d24d-45c1-ab0b-cc0313c06247" name="josh@health-new.aws.eye-predict.com:22" url="http:///">
+        <fileTransfer host="health-new.aws.eye-predict.com" port="22" privateKey="C:\Users\BeastMaster\Documents\EyePredict\.ssh\ep_aws.ppk" rootFolder="/home/josh" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
