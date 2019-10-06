@@ -4,7 +4,7 @@
     <property name="created">2019-09-14T22:32:42</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-05T15:45:35</property>
+    <property name="modified">2019-10-06T01:53:20</property>
     <property name="originalScheme">Material Lighter copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -458,12 +458,12 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -478,7 +478,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -512,7 +512,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -537,7 +537,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="90a4ae" />
+        <option name="FOREGROUND" value="67767d" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -585,7 +585,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -595,12 +595,12 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="6182b8" />
+        <option name="FOREGROUND" value="3b4e6f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -620,7 +620,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="39adb5" />
+        <option name="FOREGROUND" value="1c5559" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -2304,39 +2304,9 @@
         <option name="FOREGROUND" value="f6a434" />
       </value>
     </option>
-    <option name="PY.BRACES">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
-      </value>
-    </option>
-    <option name="PY.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
-      </value>
-    </option>
-    <option name="PY.COMMA">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
-      </value>
-    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="6182b8" />
-      </value>
-    </option>
-    <option name="PY.DOT">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
-      </value>
-    </option>
-    <option name="PY.OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
-      </value>
-    </option>
-    <option name="PY.PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="39adb5" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
