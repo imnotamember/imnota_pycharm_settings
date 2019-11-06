@@ -2,6 +2,6 @@
   <component name="UISettings">
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>

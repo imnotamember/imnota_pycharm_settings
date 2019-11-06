@@ -8,12 +8,5 @@
     <general>
       <scroll-to-center>true</scroll-to-center>
     </general>
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation enabled="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>

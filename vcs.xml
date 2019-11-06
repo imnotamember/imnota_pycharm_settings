@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="josh_zosky" />
+          <option name="userName" value="unl_vr_lab" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.unl.edu/joshisthebestta/z-box_analyses.git" />
@@ -42,9 +42,17 @@
           <option name="url" value="https://github.com/matthias-k/pysaliency.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://unl_vr_lab@bitbucket.org/unl_vr_lab/bsave_database.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.unl.edu:joshisthebestta/z-box_analyses.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\BeastMaster\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
