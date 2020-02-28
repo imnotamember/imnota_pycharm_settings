@@ -58,6 +58,10 @@
           <option name="url" value="https://unl_vr_lab@bitbucket.org/unl_vr_lab/transcribe-o-tron.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.unl.edu/imnotamember/abb_data_analysis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />

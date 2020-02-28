@@ -260,6 +260,78 @@
           <option name="namespace" value="VAMP Lab" />
           <option name="sshUrl" value="git@git.unl.edu:vamp-lab/test.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/abb_data_analysis.git" />
+          <option name="name" value="abb_data_analysis" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/abb_data_analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/bsave_data_analyses.git" />
+          <option name="name" value="BSAVE Data Analyses" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/bsave_data_analyses.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/BSAVE_Database.git" />
+          <option name="name" value="BSAVE_Database" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/BSAVE_Database.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/CPT-processor.git" />
+          <option name="name" value="CPT-processor" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/CPT-processor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/inam_psychopy_experiment_template.git" />
+          <option name="name" value="inam_psychopy_experiment_template" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/inam_psychopy_experiment_template.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/LinguaFranca.git" />
+          <option name="name" value="LinguaFranca" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/LinguaFranca.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/narps.git" />
+          <option name="name" value="narps" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/narps.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/r-sheets.git" />
+          <option name="name" value="R Sheets" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/r-sheets.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/stimuli_generation.git" />
+          <option name="name" value="stimuli_generation" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/stimuli_generation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/VR_Warping_Analysis.git" />
+          <option name="name" value="VR_Warping_Analysis" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/VR_Warping_Analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/imnotamember/z-box_analyses.git" />
+          <option name="name" value="Z-Box_analyses" />
+          <option name="namespace" value="Joshua Zosky" />
+          <option name="sshUrl" value="git@git.unl.edu:imnotamember/z-box_analyses.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.unl.edu/vamp-lab/test.git" />
+          <option name="name" value="Test" />
+          <option name="namespace" value="VAMP Lab" />
+          <option name="sshUrl" value="git@git.unl.edu:vamp-lab/test.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
