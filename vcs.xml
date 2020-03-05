@@ -62,9 +62,17 @@
           <option name="url" value="https://git.unl.edu/imnotamember/abb_data_analysis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.unl.edu/imnotamember/abb-study-analysis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.unl.edu/imnotamember/abb_data_analysis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\BeastMaster\PycharmProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
