@@ -4,7 +4,7 @@
     <property name="created">2019-11-21T12:16:43</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-02-29T09:33:08</property>
+    <property name="modified">2020-03-11T21:01:22</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -33,7 +33,7 @@
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="292d3e" />
+    <option name="DOCUMENTATION_COLOR" value="1a1d28" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
