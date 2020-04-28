@@ -1,8 +1,8 @@
 <application>
   <component name="SourceryConfigService">
     <option name="pluginVersion" value="0.3.3" />
-    <option name="sourceryConfigFolder" value="$USER_HOME$/Library/Application Support/sourcery" />
-    <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/pycharm-plugin/lib/mac/sourcery" />
+    <option name="sourceryConfigFolder" value="C:\Users\BeastMaster\AppData\Local\sourcery" />
+    <option name="sourceryExecutable" value="C:\Users\BeastMaster\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\201.6668.115.plugins\pycharm-plugin\lib\win\sourcery.exe" />
     <option name="sourceryProductName" value="Open Source" />
     <option name="sourceryVersion" value="0.6.5" />
   </component>
