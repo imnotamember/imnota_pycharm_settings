@@ -4,6 +4,6 @@
     <option name="sourceryConfigFolder" value="$USER_HOME$/Library/Application Support/sourcery" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/pycharm-plugin/lib/mac/sourcery" />
     <option name="sourceryProductName" value="Open Source" />
-    <option name="sourceryVersion" value="0.6.6" />
+    <option name="sourceryVersion" value="0.6.8" />
   </component>
 </application>
