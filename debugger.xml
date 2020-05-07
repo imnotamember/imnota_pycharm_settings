@@ -9,9 +9,9 @@
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="python">
         <configuration>
-          <custom-object-presentation />
+          <option name="valuesPolicy" value="ON_DEMAND" />
         </configuration>
       </debugger>
     </debuggers>
