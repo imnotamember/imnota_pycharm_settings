@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="health-new.aws.eye-predict.com" id="95796173-4086-4f47-b5fb-528537f268d8" keyPath="C:\Users\BeastMaster\Documents\EyePredict\.ssh\ep_aws.ppk" port="22" customName="josh@health-new.aws.eye-predict.com:22" nameFormat="CUSTOM" username="josh" />
-      <sshConfig host="health-new.aws.eye-predict.com" id="4c15cbd3-c13d-4cd6-a078-0cdb8943e995" keyPath="C:\Users\BeastMaster\Documents\EyePredict\.ssh\ep_aws.ppk" port="22" customName="josh@health-new.aws.eye-predict.com:22" nameFormat="CUSTOM" username="josh" />
+      <sshConfig host="health-new.aws.eye-predict.com" id="b05d5a20-e6f8-48c6-8489-9388661182f9" keyPath="C:\Users\BeastMaster\Documents\EyePredict\.ssh\ep_aws.ppk" port="22" customName="josh@health-new.aws.eye-predict.com:22" nameFormat="CUSTOM" username="josh" />
     </configs>
   </component>
 </application>
