@@ -1,9 +1,9 @@
 <application>
   <component name="SourceryConfigService">
-    <option name="pluginVersion" value="0.4.0" />
+    <option name="pluginVersion" value="0.5.0" />
     <option name="sourceryConfigFolder" value="$USER_HOME$/Library/Application Support/sourcery" />
-    <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/pycharm-plugin/lib/mac/sourcery" />
+    <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/lib/mac/sourcery" />
     <option name="sourceryProductName" value="Open Source" />
-    <option name="sourceryVersion" value="0.7.2" />
+    <option name="sourceryVersion" value="0.7.3" />
   </component>
 </application>
