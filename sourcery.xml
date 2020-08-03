@@ -4,6 +4,6 @@
     <option name="sourceryConfigFolder" value="$USER_HOME$/Library/Application Support/sourcery" />
     <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/lib/mac/sourcery" />
     <option name="sourceryProductName" value="Open Source" />
-    <option name="sourceryVersion" value="Unknown" />
+    <option name="sourceryVersion" value="0.7.5" />
   </component>
 </application>
