@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="unl_vr_lab" />
+          <option name="userName" value="imnotamember" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.unl.edu/joshisthebestta/z-box_analyses.git" />
@@ -72,6 +72,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.unl.edu/imnotamember/ternus_analysis" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:imnotamember/validitycheck.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://imnotamember@bitbucket.org/imnotamember/validitycheck.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
