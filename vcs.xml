@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="unl_vr_lab" />
+          <option name="userName" value="imnotamember" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://git.unl.edu/joshisthebestta/z-box_analyses.git" />
@@ -74,9 +74,13 @@
           <option name="url" value="https://git.unl.edu/imnotamember/ternus_analysis" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://imnotamember@bitbucket.org/imnotamember/validitycheck.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\BeastMaster\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
