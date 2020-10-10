@@ -6,7 +6,6 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -16,13 +15,15 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="useProjectFrame" value="true" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-5b4f9026:16d3d199735:-8000" />
     <option name="version" value="5.2.0" />
   </component>
