@@ -15,7 +15,7 @@
   </tool>
   <tool name="PyUIC Tools" description="Convert QT UI files to python" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/pyuic5" />
+      <option name="COMMAND" value="C:\Users\BeastMaster\Anaconda3\Lib\site-packages\PyQt5\uic\pyuic.py" />
       <option name="PARAMETERS" value="$FilePath$ -o $FileDir$/$FileNameWithoutExtension$.py" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
