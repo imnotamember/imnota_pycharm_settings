@@ -23,7 +23,8 @@
     <option name="useProjectFrame" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="accentColor" value="651fff" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-5b4f9026:16d3d199735:-8000" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
