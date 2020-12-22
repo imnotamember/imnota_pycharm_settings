@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\BSAVE - House Party (2017-Current).py'" />
-    <option name="defaultScopeName" value="File '...\BSAVE - House Party (2017-Current).py'" />
-    <option name="SEARCH_SCOPE" value="File '...\BSAVE - House Party (2017-Current).py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
