@@ -5,6 +5,7 @@
       <mapping pattern="server_settings" type="JSON" />
       <mapping ext="java" type="JavaScript" />
       <mapping ext="jasp" type="Native" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
