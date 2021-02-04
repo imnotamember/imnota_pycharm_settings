@@ -172,8 +172,9 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -488,8 +489,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1062,8 +1064,8 @@
         <entry key="*.py">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1071,8 +1073,8 @@
         <entry key="*.pyi">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1080,8 +1082,8 @@
         <entry key="*.pyw">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1377,8 +1379,9 @@
         <entry key="*.tsv">
           <value>
             <plugin>
-              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
-              <option name="myPluginName" value="CSV Plugin" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1394,16 +1397,17 @@
         <entry key="*.txt">
           <value>
             <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.ui">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1805,8 +1809,8 @@
         <entry key="buildout.cfg">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Pythonid" />
+              <option name="myPluginName" value="Python" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
