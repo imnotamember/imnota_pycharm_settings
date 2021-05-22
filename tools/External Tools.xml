@@ -24,7 +24,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/miniconda3/envs/psychopy/bin/psychopy" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/miniconda3/envs/psychopy/bin$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
