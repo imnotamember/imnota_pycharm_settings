@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="ITERM_PROFILE" value="eyepredict" />
+  </component>
+</application>
