@@ -1,7 +1,7 @@
 <application>
   <component name="SourceryConfigService">
     <option name="pluginVersion" value="0.9.0" />
-    <option name="sourceryExecutable" value="C:\Users\BeastMaster\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\211.7442.45.plugins\sourcery\sourcery_binaries\install\win\sourcery.exe" />
+    <option name="sourceryExecutable" value="$APPLICATION_PLUGINS_DIR$/sourcery/sourcery_binaries/install/mac/sourcery" />
     <option name="sourceryProductName" value="Free" />
     <option name="sourceryToken" value="user_gRhSTYiBvuNULT0UJfwcPNip_5DcSCZopTpV_3CHFJmSKvcCk4NYZI5eim8" />
     <option name="sourceryVersion" value="0.9.0" />
